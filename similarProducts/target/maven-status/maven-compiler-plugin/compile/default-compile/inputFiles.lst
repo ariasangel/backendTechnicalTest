@@ -1,0 +1,5 @@
+/home/angel/Desktop/similarProducts/src/main/java/mca/backendTechnicalTest/similarProducts/SimilarProductsApplication.java
+/home/angel/Desktop/similarProducts/src/main/java/mca/backendTechnicalTest/similarProducts/controller/SimilarProductProcessor.java
+/home/angel/Desktop/similarProducts/src/main/java/mca/backendTechnicalTest/similarProducts/model/Product.java
+/home/angel/Desktop/similarProducts/src/main/java/mca/backendTechnicalTest/similarProducts/client/ProductFeignClient.java
+/home/angel/Desktop/similarProducts/src/main/java/mca/backendTechnicalTest/similarProducts/controller/SimilarProductController.java

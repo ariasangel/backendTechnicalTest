@@ -1,0 +1,5 @@
+mca/backendTechnicalTest/similarProducts/controller/SimilarProductProcessor.class
+mca/backendTechnicalTest/similarProducts/model/Product.class
+mca/backendTechnicalTest/similarProducts/client/ProductFeignClient.class
+mca/backendTechnicalTest/similarProducts/controller/SimilarProductController.class
+mca/backendTechnicalTest/similarProducts/SimilarProductsApplication.class
