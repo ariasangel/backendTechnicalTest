@@ -16,7 +16,13 @@ Follow the list to install and set up the app.
    sudo docker run -p 5000:5000 springio/similar-products
    ```
 
-<!-- USAGE EXAMPLES -->
+## Test petitions @ localhost
+Use the following links as a reference to run the application:
+
+[http://localhost:5000/product/1/similar](http://localhost:3001/product/1/similar)
+
+
+
 ## Testing and Self-evaluation (From the original project)
 2. Clone the repo
    ```sh
