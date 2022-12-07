@@ -20,7 +20,9 @@ Follow the list to install and set up the app.
 Use the following links as a reference to run the application:
 
 [http://localhost:5000/product/1/similar](http://localhost:3001/product/1/similar)
+
 [http://localhost:5000/product/2/similar](http://localhost:3001/product/2/similar)
+
 [http://localhost:5000/product/3/similar](http://localhost:3001/product/3/similar)
 
 
