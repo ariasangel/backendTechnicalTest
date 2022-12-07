@@ -1,9 +1,9 @@
-# backendTechnicalTest
+# Backend Technical Test - Ángel Perea Arias
 Project for the technical interview with MCA
 
 ### Installation
 
-_Below is a list of how you can install and setting the app.
+Follow the list to install and set up the app.
 
 1. Install docker
 2. Clone the repo
