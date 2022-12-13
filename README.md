@@ -3,7 +3,24 @@ Project for the technical interview with MCA
 
 ### Installation
 
-Follow the list to install and set up the app.
+Follow the list to install and set up the app [Local].
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ariasangel/backendTechnicalTest.git
+   ```
+2. Change directories into _/similarProducts_
+
+3. Install the project
+   ```sh
+   mvn clean install
+   ```
+4. Execute the jar
+   ``` sh
+   java -jar target/similarProducts-0.0.1-SNAPSHOT.jar
+   ```
+
+Follow the list to install and set up the app [Docker].
 
 1. Install docker
 2. Clone the repo
