@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>mca.backendTechnicalTest</groupId>
 	<artifactId>similarProducts</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>similarProducts</name>
 	<description>Project for the technical interview with MCA</description>
 	<properties>
@@ -25,6 +25,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
+			<version>3.1.5</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
