@@ -49,7 +49,7 @@ public class SimilarProductProcessor {
         try{
             product = this.productFeignClient.getProduct(id);
         } catch (FeignException e){
-            log.error("Product with id = '" + id + "' Not found.");
+            log.error("Product Not found");
         }
         return product;
     }
