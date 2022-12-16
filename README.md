@@ -42,6 +42,21 @@ Use the following links as a reference to run the application:
 
 [http://localhost:5000/product/3/similar](http://localhost:3001/product/3/similar)
 
+## Working with the cache
+The following urls can be used:
+
+Check stored values in cache:
+
+[http://localhost:5000/check/products](http://localhost:5000/check/products)
+
+[http://localhost:5000/check/similar-ids](http://localhost:5000/check/similar-ids)
+
+
+Remove stored values in cache:
+
+[http://localhost:5000/check/products/remove](http://localhost:5000/check/products/remove)
+
+[http://localhost:5000/check/similar-ids/remove](http://localhost:5000/check/similar-ids/remove)
 
 
 ## Testing and Self-evaluation (From the original project)
