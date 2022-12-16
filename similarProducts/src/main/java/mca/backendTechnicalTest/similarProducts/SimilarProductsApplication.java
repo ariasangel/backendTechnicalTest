@@ -6,6 +6,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
+@EnableCaching
 public class SimilarProductsApplication {
 
 	public static void main(String[] args) {
